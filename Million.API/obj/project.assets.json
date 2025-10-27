@@ -1801,16 +1801,6 @@
           "bin/placeholder/Million.Application.Interfaces.dll": {}
         }
       },
-      "Million.CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Million.CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Million.CrossCutting.dll": {}
-        }
-      },
       "Million.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -5669,11 +5659,6 @@
       "path": "../Million.Application.Interfaces/Million.Application.Interfaces.csproj",
       "msbuildProject": "../Million.Application.Interfaces/Million.Application.Interfaces.csproj"
     },
-    "Million.CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../Million.CrossCutting/Million.CrossCutting.csproj",
-      "msbuildProject": "../Million.CrossCutting/Million.CrossCutting.csproj"
-    },
     "Million.DAL/1.0.0": {
       "type": "project",
       "path": "../Million.DAL/Million.DAL.csproj",
@@ -5699,7 +5684,6 @@
       "Microsoft.Extensions.Configuration.Json >= 9.0.10",
       "Million.Application >= 1.0.0",
       "Million.Application.Interfaces >= 1.0.0",
-      "Million.CrossCutting >= 1.0.0",
       "Million.DAL >= 1.0.0",
       "Million.DAL.Interfaces >= 1.0.0",
       "Million.DTO >= 1.0.0",
@@ -5736,9 +5720,6 @@
             },
             "/Users/joserojas/Documents/code/million/Million.Application/Million.Application.csproj": {
               "projectPath": "/Users/joserojas/Documents/code/million/Million.Application/Million.Application.csproj"
-            },
-            "/Users/joserojas/Documents/code/million/Million.CrossCutting/Million.CrossCutting.csproj": {
-              "projectPath": "/Users/joserojas/Documents/code/million/Million.CrossCutting/Million.CrossCutting.csproj"
             },
             "/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/Million.DAL.Interfaces.csproj": {
               "projectPath": "/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/Million.DAL.Interfaces.csproj"

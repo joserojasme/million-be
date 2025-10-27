@@ -15,7 +15,6 @@
           "Microsoft.Extensions.Configuration.Json": "9.0.10",
           "Million.Application": "1.0.0",
           "Million.Application.Interfaces": "1.0.0",
-          "Million.CrossCutting": "1.0.0",
           "Million.DAL": "1.0.0",
           "Million.DAL.Interfaces": "1.0.0",
           "Million.DTO": "1.0.0",
@@ -990,14 +989,6 @@
           }
         }
       },
-      "Million.CrossCutting/1.0.0": {
-        "runtime": {
-          "Million.CrossCutting.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "Million.DAL/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.10",
@@ -1770,11 +1761,6 @@
       "sha512": ""
     },
     "Million.Application.Interfaces/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Million.CrossCutting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
