@@ -1,0 +1,15 @@
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/bin/Debug/net8.0/Million.DAL.Interfaces.deps.json
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/bin/Debug/net8.0/Million.DAL.Interfaces.dll
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/bin/Debug/net8.0/Million.DAL.Interfaces.pdb
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/bin/Debug/net8.0/Million.DTO.dll
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/bin/Debug/net8.0/Million.DTO.pdb
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.csproj.AssemblyReference.cache
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.AssemblyInfoInputs.cache
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.AssemblyInfo.cs
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.csproj.CoreCompileInputs.cache
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million..B1704DBF.Up2Date
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.dll
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/refint/Million.DAL.Interfaces.dll
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/Million.DAL.Interfaces.pdb
+/Users/joserojas/Documents/code/million/Million.DAL.Interfaces/obj/Debug/net8.0/ref/Million.DAL.Interfaces.dll

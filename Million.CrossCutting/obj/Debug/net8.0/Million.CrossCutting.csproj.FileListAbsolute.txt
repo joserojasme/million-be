@@ -1,0 +1,11 @@
+/Users/joserojas/Documents/code/million/Million.CrossCutting/bin/Debug/net8.0/Million.CrossCutting.deps.json
+/Users/joserojas/Documents/code/million/Million.CrossCutting/bin/Debug/net8.0/Million.CrossCutting.dll
+/Users/joserojas/Documents/code/million/Million.CrossCutting/bin/Debug/net8.0/Million.CrossCutting.pdb
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/Million.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/Million.CrossCutting.AssemblyInfoInputs.cache
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/Million.CrossCutting.AssemblyInfo.cs
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/Million.CrossCutting.csproj.CoreCompileInputs.cache
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/Million.CrossCutting.dll
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/refint/Million.CrossCutting.dll
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/Million.CrossCutting.pdb
+/Users/joserojas/Documents/code/million/Million.CrossCutting/obj/Debug/net8.0/ref/Million.CrossCutting.dll
