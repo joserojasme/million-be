@@ -8,6 +8,7 @@
 /Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/Million.Application.Interfaces.AssemblyInfoInputs.cache
 /Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/Million.Application.Interfaces.AssemblyInfo.cs
 /Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/Million.Application.Interfaces.csproj.CoreCompileInputs.cache
+/Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/Million.Application.Interfaces.sourcelink.json
 /Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/Million..FE3D4A25.Up2Date
 /Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/Million.Application.Interfaces.dll
 /Users/joserojas/Documents/code/million/Million.Application.Interfaces/obj/Debug/net8.0/refint/Million.Application.Interfaces.dll

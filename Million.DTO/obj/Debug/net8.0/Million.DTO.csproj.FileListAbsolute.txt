@@ -6,6 +6,7 @@
 /Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/Million.DTO.AssemblyInfoInputs.cache
 /Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/Million.DTO.AssemblyInfo.cs
 /Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/Million.DTO.csproj.CoreCompileInputs.cache
+/Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/Million.DTO.sourcelink.json
 /Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/Million.DTO.dll
 /Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/refint/Million.DTO.dll
 /Users/joserojas/Documents/code/million/Million.DTO/obj/Debug/net8.0/Million.DTO.pdb

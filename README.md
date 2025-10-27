@@ -25,26 +25,22 @@ Esta API permite consultar propiedades almacenadas en MongoDB con la posibilidad
 
 ## Requisitos
 - .NET SDK 8.0+
-- Acceso a una instancia de MongoDB (local o Atlas)
+- Acceso a una instancia de MongoDB (local o Atlas) (no hace falta restaurar backup pues en la cloud de mongo)
 
 ## Instalación y ejecución
 Clona el repositorio y restaura dependencias:
 
 ```bash
-cd /Users/joserojas/Documents/code/million
- dotnet restore
+cd a la raiz del proyecto y ejecuta
+ dotnet restore               
+ dotnet build
+ dotnet run --project Million.API
 ```
 
 Ejecuta la API (perfil Development recomendado):
 
-```bash
-# Desde el proyecto de la API
-cd /Users/joserojas/Documents/code/million/Million.API
- dotnet run
-```
-
 Por defecto la API expone Swagger en Development. URL típica:
-- Swagger UI: `https://localhost:5001/swagger` o `http://localhost:5000/swagger`
+- Swagger UI: `https://localhost:5099/swagger` o `http://localhost:5000/swagger`
 
 ## Configuración (MongoDB)
 La configuración vive en `Million.API/appsettings.json` y/o `appsettings.Development.json` bajo la sección `DatabaseSettings`:
