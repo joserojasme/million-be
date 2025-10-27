@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Million.Application.Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Million.Application", "Million.Application\Million.Application.csproj", "{FB657CC9-1156-4317-856D-7C5F57A40037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Million.Tests", "Million.Tests\Million.Tests.csproj", "{DB579F8B-628F-4609-8729-D5194DC2363B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Million.DAL.Interfaces", "Million.DAL.Interfaces\Million.DAL.Interfaces.csproj", "{50BC96F1-35B8-46F6-B174-76C3E3CFCEB2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Million.DAL", "Million.DAL\Million.DAL.csproj", "{8BF8BC45-5469-4DC4-AAE6-183930392073}"
